@@ -1,5 +1,4 @@
 first day;
 111
 
-second day;
-222;
+git is a distributed version control system
